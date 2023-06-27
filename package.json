@@ -4,9 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedTarek199994/NodeJs_To-Do-List-app.git"
+  },
+  "author": "MohammedTarek",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
