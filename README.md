@@ -4,4 +4,4 @@ read and delete to-do items. The application would typically have a user interfa
 to enter new to-do items and also has a database that stores the to-do items.
 
 ## To-Do Page 👨‍💻 ::
-![To-Do Page](screenshots/to-do-page.png?raw=true)
+![To-Do Page](screenshots/ToDo-Page.png?raw=true)
