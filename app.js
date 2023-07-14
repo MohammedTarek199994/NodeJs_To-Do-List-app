@@ -125,6 +125,7 @@ app.get("/:customListName", (req, res) => {
           listTitle: list.name,
           newListItems: list.items,
         });
+        
       } else {
         res.render("list", {
           listTitle: foundList.name,
